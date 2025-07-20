@@ -1,0 +1,173 @@
+[
+  {
+    "_id": "p1",
+    "name": "Cool Shirt",
+    "description": "This is a cool shirt.",
+    "price": 500,
+    "image": ["/images/p_img2.png"],
+    "sizes": ["S", "M", "L", "XL"],
+    "category": "Men",
+    "type": "Topwear",
+    "subcategory": "T-Shirts",
+    "bestseller": true
+  },
+  {
+    "_id": "p2",
+    "name": "Classic Hoodie",
+    "description": "Warm and cozy hoodie.",
+    "price": 800,
+    "image": ["/images/p_img28.png"],
+    "sizes": ["M", "L", "XL"],
+    "category": "Men",
+    "type": "Winterwear",
+    "subcategory": "Hoodies",
+    "bestseller": true
+  },
+  {
+    "_id": "p3",
+    "name": "Denim Jeans",
+    "description": "Stylish blue jeans.",
+    "price": 1200,
+    "image": ["/images/p_img7.png"],
+    "sizes": ["30", "32", "34", "36"],
+    "category": "Men",
+    "type": "Bottomwear",
+    "subcategory": "Jeans"
+  },
+  {
+    "_id": "p4",
+    "name": "Formal Shirt",
+    "description": "Perfect for office wear.",
+    "price": 750,
+    "image": ["/images/p_img4.png"],
+    "sizes": ["S", "M", "L", "XL"],
+    "category": "Men",
+    "type": "Topwear",
+    "subcategory": "Shirts",
+    "bestseller": true
+  },
+  {
+    "_id": "p5",
+    "name": "Summer Shorts",
+    "description": "Cool and light shorts.",
+    "price": 400,
+    "image": ["/images/p_img10.png"],
+    "sizes": ["S", "M", "L"],
+    "category": "Men",
+    "type": "Bottomwear",
+    "subcategory": "Shorts"
+  },
+  {
+    "_id": "p6",
+    "name": "Graphic Tee",
+    "description": "Trendy graphic t-shirt.",
+    "price": 550,
+    "image": ["/images/p_img1.png"],
+    "sizes": ["S", "M", "L", "XL"],
+    "category": "Women",
+    "type": "Topwear",
+    "subcategory": "T-Shirts"
+  },
+  {
+    "_id": "p7",
+    "name": "Leather Jacket",
+    "description": "Bold leather look.",
+    "price": 2500,
+    "image": ["/images/p_img21.png"],
+    "sizes": ["M", "L", "XL"],
+    "category": "Women",
+    "type": "Winterwear",
+    "subcategory": "Jackets",
+    "bestseller": true
+  },
+  {
+    "_id": "p8",
+    "name": "Sweatpants",
+    "description": "Relaxed fit joggers.",
+    "price": 700,
+    "image": ["/images/p_img26.png"],
+    "sizes": ["S", "M", "L", "XL"],
+    "category": "Women",
+    "type": "Bottomwear",
+    "subcategory": "Pants"
+  },
+  {
+    "_id": "p9",
+    "name": "Sports T-Shirt",
+    "description": "Breathable material for workouts.",
+    "price": 600,
+    "image": ["/images/p_img35.png"],
+    "sizes": ["S", "M", "L", "XL"],
+    "category": "Women",
+    "type": "Topwear",
+    "subcategory": "T-Shirts",
+    "bestseller": true
+  },
+  {
+    "_id": "p10",
+    "name": "Winter Coat",
+    "description": "Heavy-duty winter coat.",
+    "price": 3000,
+    "image": ["/images/p_img36.png"],
+    "sizes": ["M", "L", "XL"],
+    "category": "Women",
+    "type": "Winterwear",
+    "subcategory": "Coats"
+  },
+  {
+    "_id": "p11",
+    "name": "Kids Printed Tee",
+    "description": "Colorful cartoon tee for kids.",
+    "price": 350,
+    "image": ["/images/p_img25.png"],
+    "sizes": ["XS", "S", "M"],
+    "category": "Kids",
+    "type": "Topwear",
+    "subcategory": "T-Shirts"
+  },
+  {
+    "_id": "p12",
+    "name": "Kids Track Pants",
+    "description": "Comfortable track pants for play.",
+    "price": 400,
+    "image": ["/images/p_img50.png"],
+    "sizes": ["XS", "S", "M"],
+    "category": "Kids",
+    "type": "Bottomwear",
+    "subcategory": "Pants"
+  },
+  {
+    "_id": "p13",
+    "name": "Girls Floral Frock",
+    "description": "Beautiful floral dress for girls.",
+    "price": 950,
+    "image": ["/images/p_img9.png"],
+    "sizes": ["S", "M", "L"],
+    "category": "Kids",
+    "type": "Topwear",
+    "subcategory": "Dresses"
+  },
+  {
+    "_id": "p14",
+    "name": "Boys Denim Jacket",
+    "description": "Stylish denim jacket for boys.",
+    "price": 1300,
+    "image": ["/images/p_img14.png"],
+    "sizes": ["S", "M", "L"],
+    "category": "Kids",
+    "type": "Winterwear",
+    "subcategory": "Jackets"
+  },
+  {
+    "_id": "p15",
+    "name": "Women's Long Coat",
+    "description": "Elegant and warm long coat.",
+    "price": 3200,
+    "image": ["/images/p_img44.png"],
+    "sizes": ["S", "M", "L"],
+    "category": "Women",
+    "type": "Winterwear",
+    "subcategory": "Coats",
+    "bestseller": true
+  }
+]
